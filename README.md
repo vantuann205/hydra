@@ -6,7 +6,7 @@
   <a href='https://github.com/cardano-scaling/hydra/pkgs/container/hydra-node'><img src="https://img.shields.io/github/actions/workflow/status/cardano-scaling/hydra/docker.yaml?branch=master&label=Docker&style=for-the-badge" /></a>
 </div>
 
-## :sunrise_over_mountains: Introductio
+## :sunrise_over_mountains: Introduction
 
 Hydra is the layer-two scalability solution for Cardano, which aims to increase
 the speed of transactions (low latency, high throughput) and minimize
